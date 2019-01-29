@@ -4,7 +4,7 @@
 
 ![FLIP.IMG](./assets/images/project_logo.png)
 ## Superhero image matching game ##
-See the project [live](https://juanidiaz.github.io/project1/)!
+See the project [live](https://alexisyepes.github.io/project1Alexis/)!
 
 > **Team Members**
 
